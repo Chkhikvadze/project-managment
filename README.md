@@ -31,7 +31,7 @@ Project Feautres:
 * 10)Task delete
 
 
-User fields:
+#### User fields:
 ```
 user:
 id
@@ -39,9 +39,10 @@ username,
 email,
 created,
 activated
+```
 
-
-Projects fields
+#### Projects fields:
+```
 name,
 date,
 created,
@@ -50,8 +51,10 @@ description,
 startDate
 endDate
 user
+```
 
-Task fields:
+#### Task fields:
+```
 id,
 name,
 date,
